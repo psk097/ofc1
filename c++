@@ -1,2 +1,3 @@
-here it is c++ project
+main
+here it is c++ projects main
 
